@@ -6,11 +6,15 @@
 ```
 brew install node@18.16.0
 npm install yarn
-yarn add react react-dom
 ```
 
 - php laravel
 ```
 brew install php@7.3 
 brew install composer
+composer create-project laravel/laravel system
+composer require laravel/ui
+yarn
+npm run dev
 ```
+
